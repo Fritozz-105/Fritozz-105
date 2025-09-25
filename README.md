@@ -1,7 +1,7 @@
 ![MasterHead](https://upload.wikimedia.org/wikipedia/commons/7/7e/Knowledge_Is_Human_Homepage_Animated_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Zach Zeng</h1>
-<h3 align="center">A 2nd year CS student at UF</h3>
+<h3 align="center">A 3rd year CS student at UF</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/49/1e/cf/491ecfcebd2192e29b758ca798717ec6.gif">
 
 - 🔭 I’m currently working on **Full Stack Web App**
